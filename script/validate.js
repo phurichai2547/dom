@@ -1,5 +1,5 @@
 const validateUsername = (username) => {
-  
+    
 };
 
 const validateEmail = (email) => {
